@@ -1,0 +1,28 @@
+name: Test Piggy
+favicon: null
+layout_spectrum: 0.5827231293078512
+typography_spectrum: 0.12641902756877244
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.939281189115718
+  lightness: 0.31630304199643433
+  saturation: 0.001526218606159091
+  rhythmicContrast: 0.9705834700725973
+purpose: []
